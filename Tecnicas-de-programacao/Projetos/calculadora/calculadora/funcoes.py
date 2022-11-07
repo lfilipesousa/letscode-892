@@ -18,7 +18,7 @@ def subtracao(a, b):
         a: (int, float)
         b: (int, float)
     return:
-        a + b (int,float)
+        a - b (int,float)
     '''
 
     if isinstance(a, (int, float)) and isinstance(b, (int, float)):
